@@ -1,7 +1,7 @@
 ## WoW AHK Scripts
 
-This is a collection of AutoHotKey macro scripts which I wrote for World of Warcraft.
-These AHK scripts are legitimate to use as they observe Blizzard's golden rule of "1 click, 1 action".
+This is a collection of AutoHotKey macro scripts which I wrote for World of Warcraft.\
+These AHK scripts are legitimate to use as they observe Blizzard's golden rule of "1 click, 1 action".\
 They are designed to work with GSE, Gnome Sequencer Enhanced, a legitimate WoW addon for custom skill castsequences.
 <br/><br/>
 
