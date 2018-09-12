@@ -13,3 +13,15 @@ To use these AHK macro scripts:
 3. Read the instructions provided with each macro to learn how it works.
 4. Double-click the new macro to activate it.
 
+
+
+
+
+
+
+
+General note for all links:
+
+```diff
++ LEFT Click the link to download the Zip file -> Unzip file -> Double-click AHK macro to use it.
+```
