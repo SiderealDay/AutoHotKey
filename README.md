@@ -4,7 +4,7 @@
 This is a collection of AutoHotKey macro scripts which I wrote for World of Warcraft.<br/>
 These AHK scripts are legitimate to use as they observe Blizzard's golden rule of "1 click, 1 action".<br/>
 They are designed to work with GSE, Gnome Sequencer Enhanced, a legitimate WoW addon for custom skill castsequences.<br/>
-With a bit of editing, these AHK macros can be used for any number of other applications or games.
+However, with a bit of editing, these AHK macros can also be used for other applications or games.
 <br/><br/>
 
 To use these AHK macro scripts:
