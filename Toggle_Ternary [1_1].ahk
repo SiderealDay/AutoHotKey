@@ -18,7 +18,7 @@ If X>0
     Send, {Blind}%X%	;; blind mode to send modifiers
 return
 
-#IfWinActive World of Warcraft				;; do stuff only if wow is active
+#IfWinActive World of Warcraft				;; enabled only in WoW
 $1::Y:=SubStr(A_ThisHotkey,0),X:=Y=X?0:Y	;; press key1 to toggle spamming itself
 #IfWinActive								;; end key binding
 
