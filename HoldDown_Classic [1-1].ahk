@@ -13,4 +13,5 @@ Loop {
 return
 
 ^PgDn::Suspend	;; Ctrl + PageDown to suspend script (if you want to chat)
+^PgUp::Reload	;; Ctrl + PageUP to reload script
 ^End::ExitApp	;; Ctrl + End to terminate script
