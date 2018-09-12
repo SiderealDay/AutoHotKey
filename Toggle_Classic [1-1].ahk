@@ -2,7 +2,7 @@
 ;; by Hadronox / Rezel
 
 #MaxThreadsPerHotkey 2
-#IfWinActive World of Warcraft
+#IfWinActive World of Warcraft	;; enabled only in WoW
 Toggle := 0
 
 $1::
