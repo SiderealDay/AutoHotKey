@@ -23,5 +23,5 @@ To use these AHK macro scripts:
 General note for all links:
 
 ```diff
-+ LEFT Click the link to download the Zip file -> Unzip file -> Double-click AHK macro to use it.
++ LEFT Click the link to download the Zip file -> Unzip the file -> Double-click the AHK macro to use it.
 ```
