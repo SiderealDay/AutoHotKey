@@ -7,8 +7,8 @@ They are designed to work with GSE, or Gnome Sequencer Enhanced, a legitimate Wo
 
 To use these AHK macro scripts:
 
-- (1) Download and install AHK. (https://autohotkey.com/download/).
-- (2) Download the AHK macro from the link provided. Alternatively you can copy/paste the script into an empty text file then rename its extension from `.txt` to `ahk`.
-- (3) Read the instructions provided with each macro to learn how it works.
-- (4) Double-click the new macro to activate it.
+1. Download and install AHK. (https://autohotkey.com/download/).
+2. Download the AHK macro from the link provided. Alternatively you can copy/paste the script into an empty text file then rename its extension from `.txt` to `ahk`.
+3. Read the instructions provided with each macro to learn how it works.
+4. Double-click the new macro to activate it.
 
