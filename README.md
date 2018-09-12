@@ -1,2 +1,15 @@
 # AutoHotKey
-AutoHotKey scripts
+WoW AHK Scripts
+
+This is a collection of AutoHotKey macro scripts which I wrote for the game World of Warcraft.
+These AHK scripts are legitimate to use as they observe Blizzard's golden rule of "1 click, 1 action".
+They are designed to work with GSE or Gnome Sequencer enhanced, a legit WoW addon that creates customized skill castsequences.
+
+
+To use these AHK macro scripts:
+
+(1) Download and install AHK. https://autohotkey.com/download/
+(2) Download the AHK macro script, or copy/paste it into a text file then rename its extension from ".txt" to "ahk".
+(3) Read the instructions provided with each macro to learn how it works.
+(4) Double-click on the macro to activate it.
+
