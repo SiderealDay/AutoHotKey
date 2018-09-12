@@ -9,9 +9,9 @@ However, with a bit of editing, these AHK macros can also be used for other appl
 
 To use these AHK macro scripts:
 1. Download and install AHK. (https://autohotkey.com/download/).
-2. Download the AHK macro from the link provided. Alternatively, you can copy/paste the script into an empty text file, then rename its extension from `.txt` to `ahk`.
+2. Download the AHK macro from the link provided. Alternatively, you can copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.
 3. Read the instructions provided with each macro to learn how it works.
-4. Double-click the new macro to activate it.
+4. Double-click the new AHK macro to activate it.
 
 
 
