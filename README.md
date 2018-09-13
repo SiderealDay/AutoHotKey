@@ -53,3 +53,8 @@ __How to download any of the macros:__
 
 ---
 
+## TOGGLE MACROS
+
+(1) Classic One Key
+[Toggle_Classic 1-1] (https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic%20[1-1].ahk)
+
