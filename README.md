@@ -24,8 +24,7 @@ __General Notes__
 
 If you have problems running AHK macro with GSE, please bear this in mind:
 <details>
-<summary>Click here to read the notes</summary>
-<p>
+<summary>*Click here to read the notes*</summary>
 
 - Every macro has been tested to work properly in WoW, including all modifiers!
 
@@ -40,7 +39,8 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 - If you are using mouse keys, like MB4, to toggle or hold down your AHK macro, you need to unbind any action from those mouse keys in your mouse software, and revert their binds to "Generic", or "Back" and "Forward".
 
 - Please check that you are using the latest updated macro.
-</p></details>
+</details>
+
 ---
 
 __How to download any of the macros:__
