@@ -9,7 +9,7 @@ SendMode Input
 
 
 ;; set your DELAY here
-Delay := 100
+Delay := 150
 
 
 SetTimer, Toggle, %Delay%
