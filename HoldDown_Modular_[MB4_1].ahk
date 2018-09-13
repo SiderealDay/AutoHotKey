@@ -30,7 +30,6 @@ KeyToSpam = 1
 ;;		MAIN
 ;; ---------------------
 
-SetKeyDelay, %Delay%
 Hotkey, IfWinActive, World of Warcraft	;; enabled only in WoW
 Hotkey, % KeyToHold, Label
 return
@@ -41,6 +40,7 @@ return
 
 SpamKey:
 While GetKeyState(KeyToHold, "P") {
+	SetKeyDelay, %Delay%
 	Send, {Blind}%KeyToSpam%	;; blind mode to send modifiers
 }
 return
