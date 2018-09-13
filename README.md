@@ -19,13 +19,31 @@ Please continue reading further below to see the full instructions for every mac
 
 ---
 
-General note to download any of the macros:
+A note to download any of the macros:
 
 ```diff
 + LEFT Click the link to download the Zip file -> Unzip the file -> Double-click the AHK macro to use it.
 ```
 
+---
 
+__General Notes__
+
+If you have problems running AHK macro with GSE, please bear this in mind:
+
+- Every macro has been tested to work properly in WoW, including all modifiers!
+
+- If you want to use the modifier keys listed in your GSE macro, then in WoW you have to unbind the relevent mod keys for the button where your GSE macro is on. If there is a conflict between mod keys in GSE and mod keys in WoW, then WoW keybinds always take priority and your GSE mod key will never trigger. Remember that in WoW by default, `SHIFT` is bound to your second action bar, and `CTRL` is bound to your pet bar. `ALT` is normally not bound.
+
+```Example:```
+If your GSE macro is currently placed on action button 1, and it uses `SHIFT` and `ALT` to cast certain spells, then you need to unbind your `Shift+1` and `Alt+1` in your WoW keybinds.
+
+```Example```
+Let us assume again that your GSE macro is on action button 1, and it uses `SHIFT` to cast a spell. But in WoW, you discover that you already have `Shift+1` bound to an action button, and this button is EMPTY. If you try to use your GSE macro and press `SHIFT`, then nothing at all will happen.
+
+- If you are using mouse keys, like MB4, to toggle or hold down your AHK macro, you need to unbind any action from those mouse keys and revert their binds to "Generic", or "Back" and "Forward".
+
+- Please check that you are using the latest updated macro.
 
 ---
 
