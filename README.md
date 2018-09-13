@@ -1,5 +1,5 @@
 # WoW AHK Scripts
-### by Rezel / Hadronox
+## by Rezel / Hadronox
 <br/>
 This is my collection of AutoHotKey macro scripts which I wrote for World of Warcraft.<br/>
 These AHK scripts are legitimate to use as they observe Blizzard's golden rule of "1 click, 1 action".<br/>
@@ -8,7 +8,7 @@ However, with minor editing, these AHK macros can also be used with other applic
 
 ---
 
-__To use the AHK macro scripts:__
+#### To use the AHK macro scripts
 
 1. Download and install AHK. (https://autohotkey.com/download/).
 2. Download the AHK macro from the link provided. Alternatively, copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.
@@ -20,11 +20,11 @@ Please continue reading further below to see the full instructions for every mac
 
 ---
 
-__General Notes__
+#### General Notes
 
 If you have problems running AHK macro with GSE, please bear this in mind:
-<details>
-<summary>*Click here to read the notes*</summary>
+<p><details>
+  <summary> <b>Click here to read the notes</b> </summary>
 
 - Every macro has been tested to work properly in WoW, including all modifiers!
 
@@ -39,7 +39,7 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 - If you are using mouse keys, like MB4, to toggle or hold down your AHK macro, you need to unbind any action from those mouse keys in your mouse software, and revert their binds to "Generic", or "Back" and "Forward".
 
 - Please check that you are using the latest updated macro.
-</details>
+</p></details>
 
 ---
 
