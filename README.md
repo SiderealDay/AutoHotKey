@@ -13,12 +13,12 @@ However, with minor editing, these AHK macros can also be used with other applic
 <p><details>
 <summary> <b>Click here to read</b> </summary>
 <br/>
-1. Download and install AHK. (https://autohotkey.com/download/).
-2. Download the AHK macro from the link provided. Alternatively, copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.
-3. Read the instructions provided with each macro to learn how it works.
+1. Download and install AHK. (https://autohotkey.com/download/).<br/>
+2. Download the AHK macro from the link provided. Alternatively, copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.<br/>
+3. Read the instructions provided with each macro to learn how it works.<br/>
 4. Double-click the new AHK macro to activate it.
 </p></details>
-<br/>
+
 <br/>
 Continue reading further below to see the full instructions for every macro.
 
