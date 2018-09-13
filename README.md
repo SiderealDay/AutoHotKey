@@ -24,7 +24,7 @@ Continue reading further below to see the full instructions for every macro.
 
 If you have problems running AHK macro with GSE, please read this:
 <p><details>
-<summary> <b>Click here to read</b> </summary>
+<summary> <b>Click here to read notes</b> </summary>
 <br/>
 
 - Every macro has been tested to work properly in WoW, including all modifiers!
@@ -53,12 +53,13 @@ __How to download any of the macros:__
 ```
 
 ------
+------
 
-## Toggle Macros
+# Toggle Macros
 <br/>
 
 (1)
-[Classic - One Key](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic%20[1-1].ahk)
+[__Classic - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic_[1-1].ahk)
 
 A short and classic toggle AHK macro to spam 1 key.<br/>
 **Default**: Toggle `1` to spam `1` @ 150 ms delay.
@@ -66,7 +67,7 @@ A short and classic toggle AHK macro to spam 1 key.<br/>
 ------
 
 (2)
-[Ternary - One Key](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Ternary%20[1_1].ahk)
+[__Ternary - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Ternary_[1_1].ahk)
 
 A short and fancy toggle AHK macro. It uses a ternary operator to spam 1 key.<br/>
 **Default**: Toggle `1` to spam `1` @ 150 ms delay.
@@ -74,7 +75,7 @@ A short and fancy toggle AHK macro. It uses a ternary operator to spam 1 key.<br
 ------
 
 (3)
-[Ternary - Two Keys](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Ternary%20[12_12].ahk)
+[__Ternary - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Ternary_[12_12].ahk)
 
 A short and fancy toggle AHK macro. It uses a ternary operator to spam 2 keys.<br/>
 **Default**: Toggle `1` to spam `1` @ 150 ms delay; and Toggle `2` to spam `2` @ 150 ms delay.
@@ -82,32 +83,32 @@ A short and fancy toggle AHK macro. It uses a ternary operator to spam 2 keys.<b
 ------
 
 (4)
-[Modular - One Key](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular%20[MB4_1].ahk)
+[__Modular - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_[MB4_1].ahk)
 
 A cutomizable toggle AHK macro to spam 1 key.<br/>
 **Default**: Toggle `MB4` to spam `1` @ 150 ms delay.
 
 <p><details>
-<summary> <b>Click here to read</b> </summary>
+<summary> <b>Click here to read features</b> </summary>
 <br/>
 
-```md
+```ruby
 Features:
------------
+---------
 
-+ You can assign any 2 toggle keys to spam any 2 other keys, with customizable delays.
-+ Default: `Mouse Button 4` will spam `1` at 150ms, and `Mouse Button 5` will spam "2" at 150ms.
-+ Press `MB4` or `MB5` once to start spam. Press once again to stop spam.
++ You can assign any toggle key to spam any other key, with customizable delay.
++ Default: `Mouse Button 4` will spam `1` at 150ms.
++ Press `MB4` once to start spam. Press once again to stop spam.
 
-+ All keys and delays can be customized in the CONFIG section.
-+ Delays are separate for each toggle key. Assign a value as suggested by your GSE macro.
++ All keys and delay can be customized in the CONFIG section.
++ Assign delay value as suggested by your GSE macro.
 
 + Key modifiers (Shift, Alt, Ctrl) work properly.
 
 + This AHK script will only work if WoW window is active. This option can be disabled in the script.
 
 + A small window will tell you when this AHK script is enabled and working.
-+ To customize this window, read the INFO section inside the script.
++ To customize this window, read the INFO section.
 
 + < Ctrl+PageDown > to suspend script (if you want to chat in game). (*)
 + < Ctrl+PageUp > to reload AHK script. (*)
@@ -120,18 +121,18 @@ Features:
 ------
 
 (5)
-[Modular - Two Keys](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Ternary%20[12_12].ahk)
+[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Ternary_[12_12].ahk)
 
 A short and fancy toggle AHK macro. It uses a ternary operator to spam 2 keys.<br/>
 **Default**: Toggle `MB4` to spam `1` @ 150 ms delay; and Toggle `MB5` to spam `2` @ 150 ms delay.
 
 <p><details>
-<summary> <b>Click here to read</b> </summary>
+<summary> <b>Click here to read features</b> </summary>
 <br/>
 
-```md
+```ruby
 Features:
------------
+---------
 
 + You can assign any 2 toggle keys to spam any 2 other keys, with customizable delays.
 + Default: `Mouse Button 4` will spam `1` at 150ms, and `Mouse Button 5` will spam "2" at 150ms.
