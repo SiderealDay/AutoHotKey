@@ -22,7 +22,7 @@ Please continue reading further below to see the full instructions for every mac
 
 #### General Notes
 
-If you have problems running AHK macro with GSE, please bear this in mind:
+If you have problems running AHK macro with GSE, please read this:
 <p><details>
   <summary> <b>Click here to read the notes</b> </summary>
 
