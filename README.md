@@ -53,6 +53,7 @@ __How to download any of the macros:__
 ```
 
 ------
+<br/>
 
 # Toggle Macros
 <br/>
@@ -60,7 +61,7 @@ __How to download any of the macros:__
 __(1)__
 [__Classic - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic_[1-1].ahk)
 
-A simple and classic toggle AHK macro to spam 1 key.<br/>
+A simple and classic `toggle` AHK macro to spam 1 key.<br/>
 **Default**: Toggle `1` to spam `1` @ 150 ms delay.
 
 ------
@@ -68,15 +69,15 @@ A simple and classic toggle AHK macro to spam 1 key.<br/>
 __(2)__
 [__Classic - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic_[12-12].ahk)
 
-A simple and classic toggle AHK macro to spam 2 keys.<br/>
-**Default**: Toggle `1` to spam `1` @ 150 ms delay; and Toggle `2` to spam `2` @ 150 ms delay.
+A simple and classic `toggle` AHK macro to spam 2 keys.<br/>
+**Default**: Toggle `1` to spam `1` @ 150 ms delay; Toggle `2` to spam `2` @ 150 ms delay.
 
 ------
 
 __(3)__
 [__Modular - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_[MB4_1].ahk)
 
-A cutomizable toggle AHK macro to spam 1 key.<br/>
+A cutomizable `toggle` AHK macro to spam 1 key.<br/>
 **Default**: Toggle `MB4` to spam `1` @ 150 ms delay.
 
 <p><details>
@@ -87,53 +88,13 @@ A cutomizable toggle AHK macro to spam 1 key.<br/>
 Features:
 ---------
 
-+ You can assign any toggle key to spam any other key, with customizable delay.
-+ Default: `Mouse Button 4` will spam `1` at 150ms.
-+ Press `MB4` once to start spam. Press once again to stop spam.
++ Assign the key that you want to toggle.
++ Assign the key that you want to spam. This is where your GSE macros will be placed.
++ Assign delay value (in ms), as suggested by your GSE macro.
++ DEFAULT: Toggle `Mouse Button 4` to spam `1` at 150ms. 
 
 + All keys and delay can be customized in the CONFIG section.
-+ Assign delay value as suggested by your GSE macro.
-
-+ Key modifiers (Shift, Alt, Ctrl) work properly.
-
-+ This AHK script will only work if WoW window is active. This option can be disabled in the script.
-
-+ A small window will tell you when this AHK script is enabled and working.
-+ To customize this window, read the INFO section.
-
-+ < Ctrl+PageDown > to suspend script (if you want to chat in game). (*)
-+ < Ctrl+PageUp > to reload AHK script. (*)
-+ < Ctrl+End > to terminate AHK script. (*)
- (*)  This command can be used outside WoW.
-```
-
-</p></details>
-
-------
-
-__(4)__
-[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_[MB4MB5_12].ahk)
-
-A cutomizable toggle AHK macro to spam 2 keys.<br/>
-**Default**: Toggle `MB4` to spam `1` @ 150 ms delay; and Toggle `MB5` to spam `2` @ 150 ms delay.
-
-<p><details>
-<summary> <b>Click here to read features</b> </summary>
-<br/>
-
-```ruby
-Features:
----------
-
-+ You can assign any 2 toggle keys to spam any 2 other keys, with customizable delays.
-+ Default: `Mouse Button 4` will spam `1` at 150ms, and `Mouse Button 5` will spam "2" at 150ms.
-+ Press `MB4` or `MB5` once to start spam. Press once again to stop spam.
-
-+ All keys and delays can be customized in the CONFIG section.
-+ Delays are separate for each toggle key. Assign a value as suggested by your GSE macro.
-
-+ Key modifiers (Shift, Alt, Ctrl) work properly.
-
++ Key modifiers (Shift, Alt, Ctrl) should work properly.
 + This AHK script will only work if WoW window is active. This option can be disabled in the script.
 
 + A small window will tell you when this AHK script is enabled and working.
@@ -149,3 +110,126 @@ Features:
 
 ------
 
+__(4)__
+[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_[MB4MB5_12].ahk)
+
+A cutomizable `toggle` AHK macro to spam 2 keys.<br/>
+**Default**: Toggle `MB4` to spam `1` @ 150 ms delay; Toggle `MB5` to spam `2` @ 150 ms delay.
+
+<p><details>
+<summary> <b>Click here to read features</b> </summary>
+<br/>
+
+```ruby
+Features:
+---------
+
++ Assign the keys that you want to toggle.
++ Assign the keys that you want to spam. This is where your GSE macros will be placed.
++ Assign delay values (in ms), as suggested by your GSE macro. Delays are separate for each key.
++ DEFAULT: Toggle `Mouse Button 4` to spam `1` at 150ms; Toggle `Mouse Button 5` to spam `2` at 150ms.
+
++ All keys and delay can be customized in the CONFIG section.
++ Key modifiers (Shift, Alt, Ctrl) should work properly.
++ This AHK script will only work if WoW window is active. This option can be disabled in the script.
+
++ A small window will tell you when this AHK script is enabled and working.
++ To customize this window, read the INFO section inside the script.
+
++ < Ctrl+PageDown > to suspend script (if you want to chat in game). (*)
++ < Ctrl+PageUp > to reload AHK script. (*)
++ < Ctrl+End > to terminate AHK script. (*)
+ (*)  This command can be used outside WoW.
+```
+
+</p></details>
+
+------
+<br/>
+
+# Hold Macros
+<br/>
+
+__(1)__
+[__Classic - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Classic_[1-1].ahk)
+
+A simple and classic `hold-down` AHK macro to spam 1 key.<br/>
+**Default**: Hold `1` to spam `1` @ 150 ms delay.
+
+------
+
+__(2)__
+[__Classic - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Classic_[12-12].ahk)
+
+A simple and classic `hold-down` AHK macro to spam 2 keys.<br/>
+**Default**: Hold `1` to spam `1` @ 150 ms delay; Hold `2` to spam `2` @ 150 ms delay.
+
+------
+
+__(3)__
+[__Modular - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Modular_[MB4_1].ahk)
+
+A cutomizable `hold-down` AHK macro to spam 1 key.<br/>
+**Default**: Hold `MB4` to spam `1` @ 150 ms delay.
+
+<p><details>
+<summary> <b>Click here to read features</b> </summary>
+<br/>
+
+uses SendMode Event, with KeyDelay for delay and SetTimer for repeat.
+
+```ruby
+Features:
+---------
+
++ Assign the key that you want to hold down.
++ Assign the key that you want to spam. This is where your GSE macro will be placed.
++ Assign delay value (in ms), as suggested by your GSE macro.
++ DEFAULT: Hold down `Mouse Button 4` to spam `1` at 150ms.
+
++ All keys and delay can be customized in the CONFIG section.
++ Key modifiers (Shift, Alt, Ctrl) should work properly.
++ This AHK script will only work if WoW window is active. This option can be disabled in the script.
+
++ < Ctrl+PageDown > to suspend script (if you want to chat in game). (*)
++ < Ctrl+PageUp > to reload AHK script. (*)
++ < Ctrl+End > to terminate AHK script. (*)
+ (*)  This command can be used outside WoW.
+```
+
+</p></details>
+
+------
+
+__(4)__
+[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Modular_[MB4MB5_12].ahk)
+
+A cutomizable `hold-down` AHK macro to spam 2 keys.<br/>
+**Default**: Hold `MB4` to spam `1` @ 150 ms delay; Hold `MB5` to spam `2` @ 150 ms delay.
+
+<p><details>
+<summary> <b>Click here to read features</b> </summary>
+<br/>
+
+```ruby
+Features:
+---------
+
++ Assign the keys that you want to hold down.
++ Assign the keys that you want to spam. This is where your GSE macros will be placed.
++ Assign delay values (in ms), as suggested by your GSE macro. Delays are separate for each key.
++ DEFAULT: Hold `Mouse Button 4` to spam `1` at 150ms; Hold `Mouse Button 5` to spam `2` at 150ms.
+
++ All keys and delay can be customized in the CONFIG section.
++ Key modifiers (Shift, Alt, Ctrl) should work properly.
++ This AHK script will only work if WoW window is active. This option can be disabled in the script.
+
++ < Ctrl+PageDown > to suspend script (if you want to chat in game). (*)
++ < Ctrl+PageUp > to reload AHK script. (*)
++ < Ctrl+End > to terminate AHK script. (*)
+ (*)  This command can be used outside WoW.
+```
+
+</p></details>
+
+------
