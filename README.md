@@ -8,6 +8,15 @@ However, with minor editing, these AHK macros can also be used with other applic
 
 ------
 
+## Table of Contents
+1. [How to use AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-use-ahk-macro-scripts)
+2. [General Notes](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#general-notes)
+3. [How to download AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-download-any-of-the-macros)
+4. [Toggle Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#toggle-macros)
+5. [Hold Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#hold-macros)
+
+------
+
 #### How to use AHK macro scripts
 
 1. Download and install AHK. (https://autohotkey.com/download/).
