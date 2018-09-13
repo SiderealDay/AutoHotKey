@@ -9,7 +9,7 @@ However, with minor editing, these AHK macros can also be used with other applic
 ------
 
 ## Table of Contents
-1. [How to download and use AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-use-ahk-macro-scripts)
+1. [How to download and use AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-download-and-use-the-ahk-macros)
 2. [General Notes](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#general-notes)
 3. [Toggle Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#toggle-macros)
 4. [Hold Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#hold-macros)
