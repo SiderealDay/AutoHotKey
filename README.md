@@ -135,10 +135,10 @@ Features:
 
 + Assign the keys that you want to toggle.
 + Assign the keys that you want to spam. This is where your GSE macros will be placed.
-+ Assign delay values (in ms), as suggested by your GSE macro. Delays are separate for each key.
++ Assign delay values (in ms), as suggested by your GSE macro.
 + DEFAULT: Toggle `Mouse Button 4` to spam `1` at 150ms; Toggle `Mouse Button 5` to spam `2` at 150ms.
 
-+ All keys and delay can be customized in the CONFIG section.
++ All keys and delays can be customized in the CONFIG section. Delays are separate for each key.
 + Key modifiers (Shift, Alt, Ctrl) should work properly.
 + This AHK script will only work if WoW window is active. This option can be disabled in the script.
 
@@ -185,8 +185,6 @@ A cutomizable `hold-down` AHK macro to spam 1 key.<br/>
 <summary> <b>Click here to read features</b> </summary>
 <br/>
 
-uses SendMode Event, with KeyDelay for delay and SetTimer for repeat.
-
 ```ruby
 Features:
 ---------
@@ -226,10 +224,10 @@ Features:
 
 + Assign the keys that you want to hold down.
 + Assign the keys that you want to spam. This is where your GSE macros will be placed.
-+ Assign delay values (in ms), as suggested by your GSE macro. Delays are separate for each key.
++ Assign delay values (in ms), as suggested by your GSE macro.
 + DEFAULT: Hold `Mouse Button 4` to spam `1` at 150ms; Hold `Mouse Button 5` to spam `2` at 150ms.
 
-+ All keys and delay can be customized in the CONFIG section.
++ All keys and delays can be customized in the CONFIG section. Delays are separate for each key.
 + Key modifiers (Shift, Alt, Ctrl) should work properly.
 + This AHK script will only work if WoW window is active. This option can be disabled in the script.
 
