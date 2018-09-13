@@ -7,7 +7,7 @@ Toggle := 0
 
 $1::
 Toggle := !Toggle
-While Toggle{
+While Toggle {
     Send, {Blind}1	;; blind mode to send modifiers
     Sleep, 150
 }
