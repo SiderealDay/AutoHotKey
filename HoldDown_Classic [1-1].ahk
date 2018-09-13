@@ -7,7 +7,7 @@ $1::
 Loop {
 	While GetKeyState("1", "P") {
 		Send, {Blind}1	;; blind mode to send modifiers
-		Sleep, 100
+		Sleep, 150
 	}
 }
 return
