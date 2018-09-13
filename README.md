@@ -47,7 +47,7 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 __How to download any of the macros:__
 
 ```md
-> LEFT-CLICK the link to download the Zip file.
+> LEFT-CLICK the blue name/link to download the Zip file.
 > Unzip the file.
 > Double-click the AHK macro to use it.
 ```
@@ -58,7 +58,7 @@ __How to download any of the macros:__
 # Toggle Macros
 <br/>
 
-(1)
+__(1)__
 [__Classic - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic_[1-1].ahk)
 
 A short and classic toggle AHK macro to spam 1 key.<br/>
@@ -66,7 +66,7 @@ A short and classic toggle AHK macro to spam 1 key.<br/>
 
 ------
 
-(2)
+__(2)__
 [__Ternary - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Ternary_[1_1].ahk)
 
 A short and fancy toggle AHK macro. It uses a ternary operator to spam 1 key.<br/>
@@ -74,7 +74,7 @@ A short and fancy toggle AHK macro. It uses a ternary operator to spam 1 key.<br
 
 ------
 
-(3)
+__(3)__
 [__Ternary - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Ternary_[12_12].ahk)
 
 A short and fancy toggle AHK macro. It uses a ternary operator to spam 2 keys.<br/>
@@ -82,7 +82,7 @@ A short and fancy toggle AHK macro. It uses a ternary operator to spam 2 keys.<b
 
 ------
 
-(4)
+__(4)__
 [__Modular - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_[MB4_1].ahk)
 
 A cutomizable toggle AHK macro to spam 1 key.<br/>
@@ -120,7 +120,7 @@ Features:
 
 ------
 
-(5)
+__(5)__
 [__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Ternary_[12_12].ahk)
 
 A short and fancy toggle AHK macro. It uses a ternary operator to spam 2 keys.<br/>
