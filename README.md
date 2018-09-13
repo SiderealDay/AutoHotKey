@@ -112,7 +112,7 @@ Features:
 ------
 
 __(4)__
-[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Ternary_[12_12].ahk)
+[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_[MB4MB5_12].ahk)
 
 A cutomizable toggle AHK macro to spam 2 keys.<br/>
 **Default**: Toggle `MB4` to spam `1` @ 150 ms delay; and Toggle `MB5` to spam `2` @ 150 ms delay.
