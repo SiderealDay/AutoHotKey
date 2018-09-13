@@ -8,15 +8,19 @@ However, with minor editing, these AHK macros can also be used with other applic
 
 ---
 
-#### To use the AHK macro scripts
+#### How to use AHK macro scripts
 
+<p><details>
+<summary> <b>Click here to read</b> </summary>
+<br/>
 1. Download and install AHK. (https://autohotkey.com/download/).
 2. Download the AHK macro from the link provided. Alternatively, copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.
 3. Read the instructions provided with each macro to learn how it works.
 4. Double-click the new AHK macro to activate it.
+</p></details>
 <br/>
-
-Please continue reading further below to see the full instructions for every macro.
+<br/>
+Continue reading further below to see the full instructions for every macro.
 
 ---
 
@@ -24,8 +28,8 @@ Please continue reading further below to see the full instructions for every mac
 
 If you have problems running AHK macro with GSE, please read this:
 <p><details>
-  <summary> <b>Click here to read the notes</b> </summary>
-
+<summary> <b>Click here to read the notes</b> </summary>
+<br/>
 - Every macro has been tested to work properly in WoW, including all modifiers!
 
 - If you want to use the modifier keys listed in your GSE macro, then in WoW you have to unbind the relevent mod keys for the button where your GSE macro is on. If there is a conflict between mod keys in GSE and mod keys in WoW, then WoW keybinds always take priority and your GSE mod key will never trigger. Remember that in WoW by default, `SHIFT` is bound to your second action bar, and `CTRL` is bound to your pet bar. `ALT` is normally not bound.
