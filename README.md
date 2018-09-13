@@ -9,20 +9,22 @@ However, with minor editing, these AHK macros can also be used with other applic
 ------
 
 ## Table of Contents
-1. [How to use AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-use-ahk-macro-scripts)
+1. [How to download and use AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-use-ahk-macro-scripts)
 2. [General Notes](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#general-notes)
-3. [How to download AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-download-any-of-the-macros)
-4. [Toggle Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#toggle-macros)
-5. [Hold Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#hold-macros)
+3. [Toggle Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#toggle-macros)
+4. [Hold Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#hold-macros)
 
 ------
 
-#### How to use AHK macro scripts
+#### How to download and use the AHK macros
 
 1. Download and install AHK. (https://autohotkey.com/download/).
-2. Download the AHK macro from the link provided. Alternatively, copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.
-3. Read the instructions provided with each macro to learn how it works.
+2. Download the AHK macro from the link provided below.
+   - LEFT-CLICK the blue name/link to download the Zip file.
+   - Unzip the file.
+3. Alternatively, you can copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.
 4. Double-click the new AHK macro to activate it.
+5. Read the instructions provided with each macro to learn how it works.
 
 <br/>
 Continue reading further below to see the full instructions for every macro.
@@ -50,16 +52,6 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 
 - Please check that you are using the latest updated macro.
 </p></details>
-
-------
-
-#### How to download any of the macros:
-
-```md
-> LEFT-CLICK the blue name/link to download the Zip file.
-> Unzip the file.
-> Double-click the AHK macro to use it.
-```
 
 ------
 <br/>
