@@ -53,8 +53,10 @@ __How to download any of the macros:__
 
 ---
 
-## TOGGLE MACROS
+## Toggle Macros
 
-(1) Classic One Key
-[Toggle_Classic 1-1] (https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic%20[1-1].ahk)
+<br/>
+(1) [Classic, One Key](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic%20[1-1].ahk)
 
+A short and classic Toggle AHK macro.
+**Default**: Toggle `1` to spam `1`.
