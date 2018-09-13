@@ -44,7 +44,7 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 
 ------
 
-__How to download any of the macros:__
+#### How to download any of the macros:
 
 ```md
 > LEFT-CLICK the blue name/link to download the Zip file.
