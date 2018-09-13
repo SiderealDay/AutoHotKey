@@ -43,5 +43,10 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 __How to download any of the macros:__
 
 ```diff
-+ LEFT Click the link to download the Zip file -> Unzip the file -> Double-click the AHK macro to use it.
++ LEFT Click the link to download the Zip file.
++ Unzip the file.
++ Double-click the AHK macro to use it.
 ```
+
+---
+
