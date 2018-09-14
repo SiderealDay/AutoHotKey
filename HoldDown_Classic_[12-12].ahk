@@ -4,20 +4,16 @@
 #IfWinActive, World of Warcraft	;; enabled only in WoW
 
 $1::
-Loop {
-	While GetKeyState("1", "P") {
-		Send, {Blind}1	;; blind mode to send modifiers
-		Sleep, 150
-	}
+While GetKeyState("1", "P") {
+	Send, {Blind}1	;; blind mode to send modifiers
+	Sleep, 150
 }
 return
 
 $2::
-Loop {
-	While GetKeyState("2", "P") {
-		Send, {Blind}2	;; blind mode to send modifiers
-		Sleep, 150
-	}
+While GetKeyState("2", "P") {
+	Send, {Blind}2	;; blind mode to send modifiers
+	Sleep, 150
 }
 return
 
