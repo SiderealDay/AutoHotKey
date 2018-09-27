@@ -32,7 +32,7 @@ KeyToSpam = 1
 ;; ---------------------
 
 Hotkey, IfWinActive, World of Warcraft	;; enabled only in WoW
-Hotkey, %$KeyToHold%, Label
+Hotkey, $%KeyToHold%, Label
 return
 
 Label:
