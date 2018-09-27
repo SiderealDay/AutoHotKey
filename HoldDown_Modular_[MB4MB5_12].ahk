@@ -51,8 +51,8 @@ KeyToSpamB = 2
 ;; ---------------------
 
 Hotkey, IfWinActive, World of Warcraft	;; enabled only in WoW
-Hotkey, % KeyToHoldA, LabelA
-Hotkey, % KeyToHoldB, LabelB
+Hotkey, $%KeyToHoldA%, LabelA
+Hotkey, $%KeyToHoldB%, LabelB
 return
 
 LabelA:
