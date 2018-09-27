@@ -52,7 +52,7 @@ KeyToSpam = 1
 ;; ---------------------
 
 Hotkey, IfWinActive, World of Warcraft	;; enabled only in WoW
-Hotkey, % KeyToPress, Label
+Hotkey, $%KeyToPress%, Label
 return
 
 Toggle := 0
