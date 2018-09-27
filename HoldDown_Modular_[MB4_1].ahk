@@ -10,6 +10,7 @@
 SetWorkingDir %A_ScriptDir%
 SendMode Event	; default
 #SingleInstance Force
+#MaxHotkeysPerInterval 20000
 
 
 ;; ---------------------
