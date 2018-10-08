@@ -9,6 +9,8 @@ While GetKeyState("1", "P") {
 	Sleep, 150
 }
 return
+#IfWinActive	;; disable WoW context sensitivity
+
 
 ^PgDn::Suspend	;; Ctrl + PageDown to suspend script (if you want to chat)
 ^PgUp::Reload	;; Ctrl + PageUP to reload script
