@@ -13,6 +13,7 @@
 ;; for a list of AHK Keys:  https://autohotkey.com/docs/KeyList.htm
 
 ;; PROGRESS WINDOW: https://autohotkey.com/docs/commands/Progress.htm
+;; Progress, M B1 X1325 Y675 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON1,,ON1,Verdana
 ; M: movable window _ B: No border _ B1: thin border, no title bar _ B2: thick border.
 ; Xn/Yn coord upper left corner _ Cxy: centered sub/main text _ Wn: width client area.
 ; ZHn: window height/thickness _ ZXn: left/right margin _ ZYn: top/bottom margin.
