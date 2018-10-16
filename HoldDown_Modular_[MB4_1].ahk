@@ -42,7 +42,7 @@ return
 SpamKey:
 While GetKeyState(KeyToHold, "P") {
 	SetKeyDelay, %Delay%
-	Send, {Blind}%KeyToSpam%	;; blind mode to send modifiers
+	Send, {Blind}{%KeyToSpam%}	;; blind mode to send modifiers
 }
 return
 
