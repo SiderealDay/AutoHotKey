@@ -9,7 +9,7 @@ Toggle2 := 0
 $1::
 Toggle1 := !Toggle1
 While Toggle1 {
-    Send, {Blind}1	;; blind mode to send modifiers
+    Send, {Blind}{1}	;; blind mode to send modifiers
     Sleep, 150
 }
 return
@@ -17,7 +17,7 @@ return
 $2::
 Toggle2 := !Toggle2
 While Toggle2 {
-    Send, {Blind}2	;; blind mode to send modifiers
+    Send, {Blind}{2}	;; blind mode to send modifiers
     Sleep, 150
 }
 return
