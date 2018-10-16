@@ -66,14 +66,14 @@ return
 SpamKeyA:
 While GetKeyState(KeyToHoldA, "P") {
 	SetKeyDelay, %DelayA%
-	Send, {Blind}%KeyToSpamA%	;; blind mode to send modifiers
+	Send, {Blind}{%KeyToSpamA%}	;; blind mode to send modifiers
 }
 return
 
 SpamKeyB:
 While GetKeyState(KeyToHoldB, "P") {
 	SetKeyDelay, %DelayB%
-	Send, {Blind}%KeyToSpamB%	;; blind mode to send modifiers
+	Send, {Blind}{%KeyToSpamB%}	;; blind mode to send modifiers
 }
 return
 
