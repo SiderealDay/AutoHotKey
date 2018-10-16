@@ -5,14 +5,14 @@
 
 $1::
 While GetKeyState("1", "P") {
-	Send, {Blind}1	;; blind mode to send modifiers
+	Send, {Blind}{1}	;; blind mode to send modifiers
 	Sleep, 150
 }
 return
 
 $2::
 While GetKeyState("2", "P") {
-	Send, {Blind}2	;; blind mode to send modifiers
+	Send, {Blind}{2}	;; blind mode to send modifiers
 	Sleep, 150
 }
 return
