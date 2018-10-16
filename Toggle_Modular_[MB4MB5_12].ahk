@@ -108,11 +108,11 @@ return
 
 
 SpamKeyA:
-Send, {Blind}%KeyToSpamA%	;; blind mode to send modifiers
+Send, {Blind}{%KeyToSpamA%}	;; blind mode to send modifiers
 return
 
 SpamKeyB:
-Send, {Blind}%KeyToSpamB%	;; blind mode to send modifiers
+Send, {Blind}{%KeyToSpamB%}	;; blind mode to send modifiers
 return
 
 
