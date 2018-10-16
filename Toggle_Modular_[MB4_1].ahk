@@ -72,7 +72,7 @@ If(Toggle) {
 return
 
 SpamKey:
-Send, {Blind}%KeyToSpam%	;; blind mode to send modifiers
+Send, {Blind}{%KeyToSpam%}	;; blind mode to send modifiers
 return
 
 
