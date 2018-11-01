@@ -147,7 +147,7 @@ Features:
 
 ------
 
-__(4)__
+__(5)__
 [__Modular - Three Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_3Keys.ahk)
 
 A cutomizable `toggle` AHK macro to spam 3 keys.<br/>
