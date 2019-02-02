@@ -1,4 +1,3 @@
-
 ;; by Hadronox / Rezel
 
 
@@ -43,10 +42,10 @@ SendMode Input
 ;; ------------------
 
 ;; Set your DELAY, in ms.
-DelayA := 150
+DelayA := 80
 
 ;; Set the key you want to press to start spam.
-KeyToPressA = XButton1		;; MB4
+KeyToPressA = 1
 
 ;; Set the key you want AHK to spam.
 KeyToSpamA = 1
@@ -57,10 +56,10 @@ KeyToSpamA = 1
 ;; ------------------
 
 ;; Set your DELAY, in ms.
-DelayB := 150
+DelayB := 80
 
 ;; Set the key you want to press to start spam.
-KeyToPressB = XButton2		;; MB5
+KeyToPressB = 2
 
 ;; Set the key you want AHK to spam.
 KeyToSpamB = 2
@@ -71,7 +70,7 @@ KeyToSpamB = 2
 ;; ------------------
 
 ;; Set your DELAY, in ms.
-DelayC := 150
+DelayC := 80
 
 ;; Set the key you want to press to start spam.
 KeyToPressC = 3
@@ -100,10 +99,14 @@ If(ToggleA) {
 	ToggleA := 0
 	Progress, Off
 	SetTimer, SpamKeyA, Off
+	SetTimer, SpamKeyB, Off
+	SetTimer, SpamKeyC, Off
 } Else {
 	ToggleA := 1
 	;; PROGRESS WINDOW
 	Progress, M B1 X1325 Y675 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON1,,ON1,Verdana
+	SetTimer, SpamKeyB, Off
+	SetTimer, SpamKeyC, Off
 	SetTimer, SpamKeyA, %DelayA%
 }
 return
@@ -112,11 +115,15 @@ LabelB:
 If(ToggleB) {
 	ToggleB := 0
 	Progress, Off
+	SetTimer, SpamKeyA, Off
 	SetTimer, SpamKeyB, Off
+	SetTimer, SpamKeyC, Off
 } Else {
 	ToggleB := 1
 	;; PROGRESS WINDOW
 	Progress, M B1 X1325 Y712 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON2,,ON2,Verdana
+	SetTimer, SpamKeyA, Off
+	SetTimer, SpamKeyC, Off
 	SetTimer, SpamKeyB, %DelayB%
 }
 return
@@ -125,11 +132,15 @@ LabelC:
 If(ToggleC) {
 	ToggleC := 0
 	Progress, Off
+	SetTimer, SpamKeyA, Off
+	SetTimer, SpamKeyB, Off
 	SetTimer, SpamKeyC, Off
 } Else {
 	ToggleC := 1
 	;; PROGRESS WINDOW
 	Progress, M B1 X1325 Y747 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON3,,ON3,Verdana
+	SetTimer, SpamKeyA, Off
+	SetTimer, SpamKeyB, Off
 	SetTimer, SpamKeyC, %DelayB%
 }
 return
