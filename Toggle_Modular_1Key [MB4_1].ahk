@@ -42,7 +42,6 @@ Delay := 150
 
 ;; Set the key you want to press to start spam.
 KeyToPress = XButton1		;; MB4
-; KeyToPress = NumpadMult	;; Numpad multiplication (*)
 
 ;; Set the key you want AHK to spam.
 KeyToSpam = 1
