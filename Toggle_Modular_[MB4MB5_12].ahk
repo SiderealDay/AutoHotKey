@@ -14,12 +14,12 @@
 
 ;; PROGRESS WINDOW: https://autohotkey.com/docs/commands/Progress.htm
 ;; Progress, M B1 X1325 Y675 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON1,,ON1,Verdana
-; M: movable window _ B: No border _ B1: thin border, no title bar _ B2: thick border.
-; Xn/Yn coord upper left corner _ Cxy: centered sub/main text _ Wn: width client area.
-; ZHn: window height/thickness _ ZXn: left/right margin _ ZYn: top/bottom margin.
-; FMn: main font size, 0=10 _ FSn: sub font size, 0=8.
-; WMn: main font weight _ WSn: sub font weight, 1-1000, 600=semi bold, 700=bold, 400=normal.
-; CTn: color text _ CWn: color background, 16 primary HTML color names or a 6-digit RGB hex.
+; M: movable window / B: No border / B1: thin border, no title bar / B2: thick border.
+; Xn/Yn coord upper left corner / Cxy: centered sub/main text / Wn: width client area.
+; ZHn: window height/thickness / ZXn: left/right margin / ZYn: top/bottom margin.
+; FMn: main font size, 0=10 / FSn: sub font size, 0=8.
+; WMn: main font weight / WSn: sub font weight, 1-1000, 600=semi bold, 700=bold, 400=normal.
+; CTn: color text / CWn: color background, 16 primary HTML color names or a 6-digit RGB hex.
 
 
 ;; ---------------------
@@ -47,7 +47,6 @@ DelayA := 150
 
 ;; Set the key you want to press to start spam.
 KeyToPressA = XButton1		;; MB4
-; KeyToPressA = NumpadMult	;; Numpad multiplication (*)
 
 ;; Set the key you want AHK to spam.
 KeyToSpamA = 1
@@ -62,7 +61,6 @@ DelayB := 150
 
 ;; Set the key you want to press to start spam.
 KeyToPressB = XButton2		;; MB5
-; KeyToPressA = NumpadSub	;; Numpad subtraction (-)
 
 ;; Set the key you want AHK to spam.
 KeyToSpamB = 2
@@ -85,10 +83,12 @@ If(ToggleA) {
 	ToggleA := 0
 	Progress, Off
 	SetTimer, SpamKeyA, Off
+	SetTimer, SpamKeyB, Off
 } Else {
 	ToggleA := 1
 	;; PROGRESS WINDOW
 	Progress, M B1 X1325 Y675 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON1,,ON1,Verdana
+	SetTimer, SpamKeyB, Off
 	SetTimer, SpamKeyA, %DelayA%
 }
 return
@@ -97,22 +97,25 @@ LabelB:
 If(ToggleB) {
 	ToggleB := 0
 	Progress, Off
+	SetTimer, SpamKeyA, Off
 	SetTimer, SpamKeyB, Off
 } Else {
 	ToggleB := 1
 	;; PROGRESS WINDOW
 	Progress, M B1 X1325 Y675 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON2,,ON2,Verdana
+	SetTimer, SpamKeyA, Off
 	SetTimer, SpamKeyB, %DelayB%
 }
 return
 
 
+;; blind mode to send modifiers
 SpamKeyA:
-Send, {Blind}{%KeyToSpamA%}	;; blind mode to send modifiers
+Send, {Blind}{%KeyToSpamA%}
 return
 
 SpamKeyB:
-Send, {Blind}{%KeyToSpamB%}	;; blind mode to send modifiers
+Send, {Blind}{%KeyToSpamB%}
 return
 
 
