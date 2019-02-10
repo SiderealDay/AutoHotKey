@@ -60,7 +60,7 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 <br/>
 
 __(1)__
-[__Classic - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic_[1-1].ahk)
+[__Classic - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic_1Key [1-1].ahk)
 
 A simple and classic `toggle` AHK macro to spam 1 key.<br/>
 **Default**: Toggle `1` to spam `1` @ 150 ms delay.
@@ -68,7 +68,7 @@ A simple and classic `toggle` AHK macro to spam 1 key.<br/>
 ------
 
 __(2)__
-[__Classic - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic_[12-12].ahk)
+[__Classic - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic_2Key [12-12].ahkk)
 
 A simple and classic `toggle` AHK macro to spam 2 keys.<br/>
 **Default**: Toggle `1` to spam `1` @ 150 ms delay; Toggle `2` to spam `2` @ 150 ms delay.
@@ -76,7 +76,7 @@ A simple and classic `toggle` AHK macro to spam 2 keys.<br/>
 ------
 
 __(3)__
-[__Modular - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_[MB4_1].ahk)
+[__Modular - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_1Key [MB4_1].ahk)
 
 A cutomizable `toggle` AHK macro to spam 1 key.<br/>
 **Default**: Toggle `MB4` to spam `1` @ 150 ms delay.
@@ -112,7 +112,7 @@ Features:
 ------
 
 __(4)__
-[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_[MB4MB5_12].ahk)
+[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_2Key [MB4MB5_12].ahk)
 
 A cutomizable `toggle` AHK macro to spam 2 keys.<br/>
 **Default**: Toggle `MB4` to spam `1` @ 150 ms delay; Toggle `MB5` to spam `2` @ 150 ms delay.
@@ -148,7 +148,7 @@ Features:
 ------
 
 __(5)__
-[__Modular - Three Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_3Keys.ahk)
+[__Modular - Three Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_3Key.ahk)
 
 A cutomizable `toggle` AHK macro to spam 3 keys.<br/>
 **Default**: Toggle `MB4` to spam `1` @ 150 ms delay; Toggle `MB5` to spam `2` @ 150 ms delay; Toggle `3` to spam `3` @ 150 ms delay.
@@ -188,7 +188,7 @@ Features:
 <br/>
 
 __(1)__
-[__Classic - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Classic_[1-1].ahk)
+[__Classic - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Classic_1Key [1-1].ahk)
 
 A simple and classic `hold-down` AHK macro to spam 1 key.<br/>
 **Default**: Hold `1` to spam `1` @ 150 ms delay.
@@ -196,7 +196,7 @@ A simple and classic `hold-down` AHK macro to spam 1 key.<br/>
 ------
 
 __(2)__
-[__Classic - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Classic_[12-12].ahk)
+[__Classic - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Classic_2Key [12-12].ahk)
 
 A simple and classic `hold-down` AHK macro to spam 2 keys.<br/>
 **Default**: Hold `1` to spam `1` @ 150 ms delay; Hold `2` to spam `2` @ 150 ms delay.
@@ -204,7 +204,7 @@ A simple and classic `hold-down` AHK macro to spam 2 keys.<br/>
 ------
 
 __(3)__
-[__Modular - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Modular_[MB4_1].ahk)
+[__Modular - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Modular_1Key [MB4_1].ahk)
 
 A cutomizable `hold-down` AHK macro to spam 1 key.<br/>
 **Default**: Hold `MB4` to spam `1` @ 150 ms delay.
@@ -237,7 +237,7 @@ Features:
 ------
 
 __(4)__
-[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Modular_[MB4MB5_12].ahk)
+[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Modular_2Key [MB4MB5_12].ahk)
 
 A cutomizable `hold-down` AHK macro to spam 2 keys.<br/>
 **Default**: Hold `MB4` to spam `1` @ 150 ms delay; Hold `MB5` to spam `2` @ 150 ms delay.
