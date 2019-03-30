@@ -268,3 +268,37 @@ Features:
 </p></details>
 
 ------
+
+
+__(5)__
+[__Modular - Three Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/HoldDown_Modular_3Key%20[123_123].ahk)
+
+A cutomizable `hold-down` AHK macro to spam 3 keys.<br/>
+**Default**: Hold `1` to spam `1` @ 150 ms delay; Hold `2` to spam `2` @ 150 ms delay; Hold `3` to spam `3` @ 150 ms delay.
+
+<p><details>
+<summary> <b>Click here to read features</b> </summary>
+<br/>
+
+```ruby
+Features:
+---------
+
++ Assign the keys that you want to hold down.
++ Assign the keys that you want to spam. This is where your GSE macros will be placed.
++ Assign delay values (in ms), as suggested by your GSE macro.
++ DEFAULT: Hold `1` to spam `1` at 150ms; Hold `2` to spam `2` at 150ms; Hold `3` to spam `3` at 150ms.
+
++ All keys and delays can be customized in the CONFIG section. Delays are separate for each key.
++ Key modifiers (Shift, Alt, Ctrl) should work properly.
++ This AHK script will only work if WoW window is active. This option can be disabled in the script.
+
++ < Ctrl+PageDown > to suspend script (if you want to chat in game). (*)
++ < Ctrl+PageUp > to reload AHK script. (*)
++ < Ctrl+End > to terminate AHK script. (*)
+ (*)  This command can be used outside WoW.
+```
+
+</p></details>
+
+------
