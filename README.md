@@ -65,6 +65,25 @@ __(1)__
 A simple and classic `toggle` AHK macro to spam 1 key.<br/>
 **Default**: Toggle `1` to spam `1` @ 150 ms delay.
 
+<p><details>
+<summary> <b>Click here to read features</b> </summary>
+<br/>
+
+```ruby
+Features:
+---------
+
++ Key modifiers (Shift, Alt, Ctrl) should work properly.
++ This AHK script will only work if WoW window is active. This option can be disabled in the script.
+
++ < Ctrl+PageDown > to suspend script (if you want to chat in game). (*)
++ < Ctrl+PageUp > to reload AHK script. (*)
++ < Ctrl+End > to terminate AHK script. (*)
+ (*)  This command can be used outside WoW.
+```
+
+</p></details>
+
 ------
 
 __(2)__
@@ -72,6 +91,25 @@ __(2)__
 
 A simple and classic `toggle` AHK macro to spam 2 keys.<br/>
 **Default**: Toggle `1` to spam `1` @ 150 ms delay; Toggle `2` to spam `2` @ 150 ms delay.
+
+<p><details>
+<summary> <b>Click here to read features</b> </summary>
+<br/>
+
+```ruby
+Features:
+---------
+
++ Key modifiers (Shift, Alt, Ctrl) should work properly.
++ This AHK script will only work if WoW window is active. This option can be disabled in the script.
+
++ < Ctrl+PageDown > to suspend script (if you want to chat in game). (*)
++ < Ctrl+PageUp > to reload AHK script. (*)
++ < Ctrl+End > to terminate AHK script. (*)
+ (*)  This command can be used outside WoW.
+```
+
+</p></details>
 
 ------
 
@@ -193,6 +231,25 @@ __(1)__
 A simple and classic `hold-down` AHK macro to spam 1 key.<br/>
 **Default**: Hold `1` to spam `1` @ 150 ms delay.
 
+<p><details>
+<summary> <b>Click here to read features</b> </summary>
+<br/>
+
+```ruby
+Features:
+---------
+
++ Key modifiers (Shift, Alt, Ctrl) should work properly.
++ This AHK script will only work if WoW window is active. This option can be disabled in the script.
+
++ < Ctrl+PageDown > to suspend script (if you want to chat in game). (*)
++ < Ctrl+PageUp > to reload AHK script. (*)
++ < Ctrl+End > to terminate AHK script. (*)
+ (*)  This command can be used outside WoW.
+```
+
+</p></details>
+
 ------
 
 __(2)__
@@ -200,6 +257,25 @@ __(2)__
 
 A simple and classic `hold-down` AHK macro to spam 2 keys.<br/>
 **Default**: Hold `1` to spam `1` @ 150 ms delay; Hold `2` to spam `2` @ 150 ms delay.
+
+<p><details>
+<summary> <b>Click here to read features</b> </summary>
+<br/>
+
+```ruby
+Features:
+---------
+
++ Key modifiers (Shift, Alt, Ctrl) should work properly.
++ This AHK script will only work if WoW window is active. This option can be disabled in the script.
+
++ < Ctrl+PageDown > to suspend script (if you want to chat in game). (*)
++ < Ctrl+PageUp > to reload AHK script. (*)
++ < Ctrl+End > to terminate AHK script. (*)
+ (*)  This command can be used outside WoW.
+```
+
+</p></details>
 
 ------
 
