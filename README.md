@@ -40,6 +40,8 @@ If you have problems running AHK macro with GSE, please read this:
 
 - Every macro has been tested to work properly in WoW, including all modifiers!
 
+- Check your keybinds, both in WoW and in your mouse software.
+
 - If you want to use the modifier keys listed in your GSE macro, then in WoW you have to unbind the relevent mod keys for the button where your GSE macro is on. If there is a conflict between mod keys in GSE and mod keys in WoW, then WoW keybinds always take priority and your GSE mod key will never trigger. Remember that in WoW by default, `SHIFT` is bound to your second action bar, and `CTRL` is bound to your pet bar. `ALT` is normally not bound.
 
   - Example:<br/>
@@ -49,6 +51,8 @@ If your GSE macro is currently placed on action button 1, and it uses `SHIFT` an
 Let us assume again that your GSE macro is on action button 1, and it uses `SHIFT` to cast a spell. But in WoW, you discover that you already have `Shift+1` bound to an action button, and this button is EMPTY. If you try to use your GSE macro and press `SHIFT` in this case, you will realise that nothing is happening, since WoW is pressing an EMPTY button.
 
 - If you are using mouse keys, like MB4, to toggle or hold down your AHK macro, you need to unbind any action from those mouse keys in your mouse software, and revert their binds to "Generic", or "Back" and "Forward".
+
+- If the AHK macro is still not working, run it as Admin.
 
 - Please check that you are using the latest updated macro.
 </p></details>
