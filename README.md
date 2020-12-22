@@ -40,7 +40,7 @@ If you have problems running AHK macro with GSE, please read this:
 
 - Every macro has been tested to work properly in WoW, including all modifiers!
 
-- Check your keybinds, both in WoW and in your mouse software.
+- Check your keybinds for any conflicts, both in WoW and in your mouse software.
 
 - If you want to use the modifier keys listed in your GSE macro, then in WoW you have to unbind the relevent mod keys for the button where your GSE macro is on. If there is a conflict between mod keys in GSE and mod keys in WoW, then WoW keybinds always take priority and your GSE mod key will never trigger. Remember that in WoW by default, `SHIFT` is bound to your second action bar, and `CTRL` is bound to your pet bar. `ALT` is normally not bound.
 
