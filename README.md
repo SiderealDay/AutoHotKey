@@ -121,6 +121,10 @@ AHK Toggle macros work like a light switch: you click a key once to activate the
 
 <br/>
 
+<p><details>
+<summary> <b>Click here for list of Toggle Macros</b> </summary>
+<br/>
+
 __(1)__
 [__Classic - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic_1Key%20[1-1].ahk)
 
@@ -278,6 +282,8 @@ Features:
 + < Ctrl+End > to terminate AHK script. (*)
  (*)  This command can be used outside WoW.
 ```
+
+</p></details>
 
 </p></details>
 
