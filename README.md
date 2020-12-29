@@ -31,8 +31,7 @@ However, with minor editing, these AHK macros can also be used with other applic
 3. Double-click the new AHK macro to activate it.
 4. Read the instructions provided with each macro to learn how it works.<br/>
 
-#### Alternate Method
-<br/>
+#### Alternate Method<br/>
 
 If you are having issues downloading my AHK macros as described above, here is an alternative way:
 
