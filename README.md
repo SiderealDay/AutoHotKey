@@ -12,11 +12,11 @@ However, with minor editing, these AHK macros can also be used with other applic
 ------
 
 ## Table of Contents
-(1) [How to download and use AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-download-and-use-the-ahk-macros)
-(2) [General Notes](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#general-notes)
-(3) [Safer Practices](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#safer-practices)
-(4) [Toggle Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#toggle-macros)
-(5) [Hold Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#hold-macros)
+(1) [How to download and use AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-download-and-use-the-ahk-macros)<br/>
+(2) [General Notes](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#general-notes)<br/>
+(3) [Safer Practices](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#safer-practices)<br/>
+(4) [Toggle Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#toggle-macros)<br/>
+(5) [Hold Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#hold-macros)<br/>
 
 ------
 
