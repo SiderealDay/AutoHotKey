@@ -29,8 +29,8 @@ However, with minor editing, these AHK macros can also be used with other applic
    - LEFT-CLICK the blue name/link to download the Zip file.
    - Unzip the file.
 3. Double-click the new AHK macro to activate it.
-4. Read the instructions provided with each macro to learn how it works.
-<br/>
+4. Read the instructions provided with each macro to learn how it works.<br/>
+
 
 #### Alternate Method
 <br/>
