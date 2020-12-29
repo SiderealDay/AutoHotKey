@@ -118,9 +118,7 @@ I don't think we know exactly how Blizzard's Warden detection works, so we have 
 AHK Toggle macros work like a light switch: you click a key once to activate the macro; you click that key again to deactivate the macro.
 
 ------
-
 <br/>
-
 <p><details>
 <summary> <b>Click here for list of Toggle Macros</b> </summary>
 <br/>
