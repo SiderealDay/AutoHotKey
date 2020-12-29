@@ -122,6 +122,7 @@ AHK Toggle macros work like a light switch: you click a key once to activate the
 <p><details>
 <summary> <b>Click here for the list of Toggle Macros</b> </summary>
 <br/>
+<br/>
 
 __(1)__
 [__Classic - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Classic_1Key%20[1-1].ahk)
@@ -296,6 +297,7 @@ AHK Hold-down macros work like a kitchen blender: you hold down a key to activat
 
 <p><details>
 <summary> <b>Click here for the list of Hold Macros</b> </summary>
+<br/>
 <br/>
 
 __(1)__
