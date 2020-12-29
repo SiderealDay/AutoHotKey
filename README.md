@@ -11,12 +11,13 @@ However, with minor editing, these AHK macros can also be used with other applic
 ## Table of Contents
 1. [How to download and use AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-download-and-use-the-ahk-macros)
 2. [General Notes](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#general-notes)
-3. [Toggle Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#toggle-macros)
-4. [Hold Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#hold-macros)
+3. [Safer Practices](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#safer-practices)
+4. [Toggle Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#toggle-macros)
+5. [Hold Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#hold-macros)
 
 ------
 
-#### How to download and use the AHK macros
+### How to download and use the AHK macros
 
 1. Download and install AHK. (https://autohotkey.com/download/).
 2. Download the AHK macro from the link provided below.
@@ -31,7 +32,7 @@ Continue reading further below to see the full instructions for every macro.
 
 ------
 
-#### General Notes
+### General Notes
 
 If you have problems running AHK macro with GSE, please read this:
 <p><details>
@@ -59,10 +60,34 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 </p></details>
 
 ------
+
+### Safer Practices
+
+Here are some practices that can make your account less likely to get flagged by Blizzard when using auto-click macros.
+<p><details>
+<summary> <b>Click here to read notes</b> </summary>
+<br/>
+
+I don't think we know exactly how Blizzard's Warden detection works, so we have to assume they "can" know everything, especially if given reason to investigate. So, we need to be as reasonable as possible in our practices as to not give them any cause to be less accommodating towards auto-clickers, such as AHK or mouse software, or even towards GSE.
+
+1. No inhumanly-fast clicking speeds!
+Use reasonable clicking speeds that humans can sustain, like 200ms or higher. Going super fast is just asking for trouble.
+
+2. No clicking multiple keys!
+Use an auto-clicker macro to actively click ONLY one key at a time. This simply observes the rule of "1 click, 1 action".
+
+3. No unattended action!
+Use common sense and never go afk while the macro is active. This can be flagged as botting.
+
+4. No macro spam in chat!
+Do not send your macro spam by mistake while chatting. Disable or terminate the macro beforehand. I include a "Suspend" feature in my macros for this specific purpose. Some people may report you if they see the spam and think you are doing something suspicious.
+
+</p></details>
+
+------
 <br/>
 
 # Toggle Macros
-
 
 AHK Toggle macros work like a light switch: you click a key once to activate the macro; you click that key again to deactivate the macro.
 
@@ -232,7 +257,6 @@ Features:
 <br/>
 
 # Hold Macros
-
 
 AHK Hold-down macros work like a kitchen blender: you hold down a key to activate the macro; you release that key to deactivate the macro.
 
