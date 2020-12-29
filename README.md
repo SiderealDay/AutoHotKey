@@ -30,9 +30,10 @@ However, with minor editing, these AHK macros can also be used with other applic
    - Unzip the file.
 3. Double-click the new AHK macro to activate it.
 4. Read the instructions provided with each macro to learn how it works.<br/>
+<br/>
+#### Alternate Method
 
-#### Alternate Method<br/>
-
+<p><details>
 If you are having issues downloading my AHK macros as described above, here is an alternative way:
 
 1. Go to the main page of my Github repository: https://github.com/SiderealDay/AutoHotKey.<br/>
@@ -43,6 +44,7 @@ If you are having issues downloading my AHK macros as described above, here is a
 5. Select a directory on your PC to download the file (such as "My Documents") then click "Save".
 6. Alternatively, you can click on the file, copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.
 
+</p></details>
 <br/>
 Continue reading further below to see the full instructions for every macro.
 
