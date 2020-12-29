@@ -96,16 +96,16 @@ Here are some practices that can make your account less likely to get flagged by
 
 I don't think we know exactly how Blizzard's Warden detection works, so we have to assume they "can" know everything, especially if given reason to investigate. So, we need to be as reasonable as possible in our practices as to not give them any cause to be less accommodating towards auto-clickers, such as AHK or mouse software, or even towards GSE.
 
-##### 1. No inhumanly-fast clicking speeds!<br/>
+#### 1. No inhumanly-fast clicking speeds!<br/>
    - Use reasonable clicking speeds that humans can sustain, like 200ms or higher. Going super fast is just asking for trouble.
 
-##### 2. No clicking multiple keys!<br/>
+#### 2. No clicking multiple keys!<br/>
    - Use an auto-clicker macro to actively click ONLY one key at a time. This simply observes the rule of "1 click, 1 action".
 
-##### 3. No unattended action!<br/>
+#### 3. No unattended action!<br/>
    - Use common sense and never go afk while the macro is active. This can be flagged as botting.
 
-##### 4. No macro spam in chat!<br/>
+#### 4. No macro spam in chat!<br/>
    - Do not send your macro spam by mistake while chatting. Disable or terminate the macro beforehand. I include a "Suspend" feature in my macros for this specific purpose. Some people may report you if they see the spam and think you are doing something suspicious.
 
 </p></details>
