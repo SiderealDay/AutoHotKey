@@ -62,6 +62,9 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 <br/>
 
 # Toggle Macros
+
+
+Toggle AHK macros work like a light switch: you click a key once to activate the AHK macro; you click the same key again to deactivate the AHK macro.
 <br/>
 
 __(1)__
@@ -228,6 +231,10 @@ Features:
 <br/>
 
 # Hold Macros
+
+
+Hold-down AHK macros work like a kitchen blender: you hold down a key to activate the AHK macro; you release the key to deactivate the AHK macro.
+
 <br/>
 
 __(1)__
