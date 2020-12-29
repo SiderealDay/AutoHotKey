@@ -22,6 +22,8 @@ However, with minor editing, these AHK macros can also be used with other applic
 
 ### How to download and use the AHK macros
 
+<br/>
+
 1. Download and install the AHK program itself: https://autohotkey.com/download/.
    - The program will be the framework that will run my macros.
 2. Download the AHK macro of your choice from the links provided below.
