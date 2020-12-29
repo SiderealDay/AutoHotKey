@@ -33,7 +33,7 @@ However, with minor editing, these AHK macros can also be used with other applic
 <br/>
 
 #### Alternate Download Method
-<br/>
+
 <p><details>
 <summary> <b>Click here for info</b> </summary>
 <br/>
