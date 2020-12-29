@@ -12,16 +12,15 @@ However, with minor editing, these AHK macros can also be used with other applic
 ------
 
 ## Table of Contents
-1. [How to download and use AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-download-and-use-the-ahk-macros)
-2. [General Notes](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#general-notes)
-3. [Safer Practices](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#safer-practices)
-4. [Toggle Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#toggle-macros)
-5. [Hold Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#hold-macros)
+(1) [How to download and use AHK macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#how-to-download-and-use-the-ahk-macros)
+(2) [General Notes](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#general-notes)
+(3) [Safer Practices](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#safer-practices)
+(4) [Toggle Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#toggle-macros)
+(5) [Hold Macros](https://github.com/SiderealDay/AutoHotKey/blob/master/README.md#hold-macros)
 
 ------
 
 ### How to download and use the AHK macros
-
 <br/>
 
 1. Download and install the AHK program itself: https://autohotkey.com/download/.
@@ -32,13 +31,13 @@ However, with minor editing, these AHK macros can also be used with other applic
 3. Double-click the new AHK macro to activate it.
 4. Read the instructions provided with each macro to learn how it works.
 
-<br/>
 
 #### Alternate Method
+<br/>
 
 If you are having issues downloading my AHK macros as described above, here is an alternative way:
 
-1. Go to the main page of my Github repository: https://github.com/SiderealDay/AutoHotKey.
+1. Go to the main page of my Github repository: https://github.com/SiderealDay/AutoHotKey.<br/>
    You will see a list of my AHK macro files.
 2. Select the one you want.
 3. Right-click the file name.
