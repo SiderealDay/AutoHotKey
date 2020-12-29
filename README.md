@@ -30,8 +30,8 @@ However, with minor editing, these AHK macros can also be used with other applic
    - Unzip the file.
 3. Double-click the new AHK macro to activate it.
 4. Read the instructions provided with each macro to learn how it works.
-
 <br/>
+
 #### Alternate Method
 <br/>
 
