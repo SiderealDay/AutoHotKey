@@ -32,7 +32,7 @@ However, with minor editing, these AHK macros can also be used with other applic
 4. Read the instructions provided with each macro to learn how it works.
 <br/>
 
-#### Alternate Download Method
+### Alternate Download Method
 
 <p><details>
 <summary> <b>Click here for info</b> </summary>
