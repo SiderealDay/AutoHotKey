@@ -23,7 +23,7 @@ However, with minor editing, these AHK macros can also be used with other applic
 ### How to download and use the AHK macros
 <br/>
 
-1. Download and install the AHK program itself: https://autohotkey.com/download/.
+1. Download and install the AHK program itself: (https://autohotkey.com/download/).
    - The program will be the framework that will run my macros.
 2. Download the AHK macro of your choice from the links provided below.
    - LEFT-CLICK the blue name/link to download the Zip file.
@@ -39,7 +39,7 @@ However, with minor editing, these AHK macros can also be used with other applic
 <br/>
 If you are having issues downloading my AHK macros as described above, here is an alternative way:
 
-1. Go to the main page of my Github repository: https://github.com/SiderealDay/AutoHotKey.<br/>
+1. Go to the main page of my Github repository: (https://github.com/SiderealDay/AutoHotKey).<br/>
    - You will see a list of my AHK macro files.
 2. Select the one you want.
 3. Right-click the file name.
