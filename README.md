@@ -117,6 +117,8 @@ I don't think we know exactly how Blizzard's Warden detection works, so we have 
 
 AHK Toggle macros work like a light switch: you click a key once to activate the macro; you click that key again to deactivate the macro.
 
+------
+
 <br/>
 
 __(1)__
@@ -285,6 +287,8 @@ Features:
 # Hold Macros
 
 AHK Hold-down macros work like a kitchen blender: you hold down a key to activate the macro; you release that key to deactivate the macro.
+
+------
 
 <br/>
 
