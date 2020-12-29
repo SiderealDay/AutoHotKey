@@ -22,13 +22,27 @@ However, with minor editing, these AHK macros can also be used with other applic
 
 ### How to download and use the AHK macros
 
-1. Download and install AHK. (https://autohotkey.com/download/).
-2. Download the AHK macro from the link provided below.
+1. Download and install the AHK program itself: https://autohotkey.com/download/.
+   - The program will be the framework that will run my macros.
+2. Download the AHK macro of your choice from the links provided below.
    - LEFT-CLICK the blue name/link to download the Zip file.
    - Unzip the file.
-3. Alternatively, you can copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.
-4. Double-click the new AHK macro to activate it.
-5. Read the instructions provided with each macro to learn how it works.
+3. Double-click the new AHK macro to activate it.
+4. Read the instructions provided with each macro to learn how it works.
+
+<br/>
+
+#### Alternate Method
+
+If you are having issues downloading my AHK macros as described above, here is an alternative way:
+
+1. Go to the main page of my Github repository: https://github.com/SiderealDay/AutoHotKey.
+   You will see a list of my AHK macro files.
+2. Select the one you want.
+3. Right-click the file name.
+4. Click "Save target as (A)...".
+5. Select a directory on your PC to download the file (such as "My Documents") then click "Save".
+6. Alternatively, you can click on the file, copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.
 
 <br/>
 Continue reading further below to see the full instructions for every macro.
