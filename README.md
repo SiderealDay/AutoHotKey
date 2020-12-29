@@ -20,7 +20,7 @@ However, with minor editing, these AHK macros can also be used with other applic
 
 ------
 
-### How to download and use the AHK macros
+### (1) How to download and use the AHK macros
 <br/>
 
 1. Download and install the AHK program itself: (https://autohotkey.com/download/).
@@ -54,7 +54,7 @@ Continue reading further below to see the full instructions for every macro.
 
 ------
 
-### General Notes
+### (2) General Notes
 
 <br/>
 If you have problems running AHK macro with GSE, please read this:
@@ -85,7 +85,7 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 
 ------
 
-### Safer Practices
+### (3) Safer Practices
 
 <br/>
 Here are some practices that can make your account less likely to get flagged by Blizzard when using auto-click macros.
@@ -113,7 +113,7 @@ I don't think we know exactly how Blizzard's Warden detection works, so we have 
 ------
 <br/>
 
-# Toggle Macros
+# (4) Toggle Macros
 
 AHK Toggle macros work like a light switch: you click a key once to activate the macro; you click that key again to deactivate the macro.
 
@@ -288,7 +288,7 @@ Features:
 ------
 <br/>
 
-# Hold Macros
+# (5) Hold Macros
 
 AHK Hold-down macros work like a kitchen blender: you hold down a key to activate the macro; you release that key to deactivate the macro.
 
