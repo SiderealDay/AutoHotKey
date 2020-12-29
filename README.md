@@ -34,7 +34,9 @@ Continue reading further below to see the full instructions for every macro.
 
 ### General Notes
 
+<br/>
 If you have problems running AHK macro with GSE, please read this:
+<br/>
 <p><details>
 <summary> <b>Click here to read notes</b> </summary>
 <br/>
@@ -63,7 +65,9 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 
 ### Safer Practices
 
+<br/>
 Here are some practices that can make your account less likely to get flagged by Blizzard when using auto-click macros.
+<br/>
 <p><details>
 <summary> <b>Click here to read notes</b> </summary>
 <br/>
