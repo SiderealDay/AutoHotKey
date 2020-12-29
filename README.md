@@ -31,9 +31,12 @@ However, with minor editing, these AHK macros can also be used with other applic
 3. Double-click the new AHK macro to activate it.
 4. Read the instructions provided with each macro to learn how it works.<br/>
 <br/>
+
 #### Alternate Method
 
 <p><details>
+<summary> <b>Click here for info</b> </summary>
+<br/>
 If you are having issues downloading my AHK macros as described above, here is an alternative way:
 
 1. Go to the main page of my Github repository: https://github.com/SiderealDay/AutoHotKey.<br/>
@@ -87,7 +90,7 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 Here are some practices that can make your account less likely to get flagged by Blizzard when using auto-click macros.
 <br/>
 <p><details>
-<summary> <b>Click here to read notes</b> </summary>
+<summary> <b>Click here for info</b> </summary>
 <br/>
 
 I don't think we know exactly how Blizzard's Warden detection works, so we have to assume they "can" know everything, especially if given reason to investigate. So, we need to be as reasonable as possible in our practices as to not give them any cause to be less accommodating towards auto-clickers, such as AHK or mouse software, or even towards GSE.
