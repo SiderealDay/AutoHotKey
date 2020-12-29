@@ -37,7 +37,7 @@ However, with minor editing, these AHK macros can also be used with other applic
 <p><details>
 <summary> <b>Click here for info</b> </summary>
 <br/>
-If you are having issues downloading my AHK macros as described above, here is an alternative way:<br/>
+If you are having issues downloading my AHK macros as described above, here is an alternative way: <br/>
 
 1. Go to the main page of my Github repository: (https://github.com/SiderealDay/AutoHotKey).<br/>
    - You will see a list of my AHK macro files.
