@@ -20,7 +20,7 @@ However, with minor editing, these AHK macros can also be used with other applic
 
 ------
 
-### (1) How to download and use the AHK macros
+## (1) How to download and use the AHK macros
 <br/>
 
 1. Download and install the AHK program itself: (https://autohotkey.com/download/).
@@ -54,7 +54,7 @@ Continue reading further below to see the full instructions for every macro.
 
 ------
 
-### (2) General Notes
+## (2) General Notes
 
 <br/>
 If you have problems running AHK macro with GSE, please read this:
@@ -85,7 +85,7 @@ Let us assume again that your GSE macro is on action button 1, and it uses `SHIF
 
 ------
 
-### (3) Safer Practices
+## (3) Safer Practices
 
 <br/>
 Here are some practices that can make your account less likely to get flagged by Blizzard when using auto-click macros.
