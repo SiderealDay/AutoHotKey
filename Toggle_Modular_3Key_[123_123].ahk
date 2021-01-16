@@ -1,3 +1,4 @@
+
 ;; by Hadronox / Rezel
 
 
@@ -42,7 +43,7 @@ SendMode Input
 ;; ------------------
 
 ;; Set your DELAY, in ms.
-DelayA := 80
+DelayA := 150
 
 ;; Set the key you want to press to start spam.
 KeyToPressA = 1
@@ -56,7 +57,7 @@ KeyToSpamA = 1
 ;; ------------------
 
 ;; Set your DELAY, in ms.
-DelayB := 80
+DelayB := 150
 
 ;; Set the key you want to press to start spam.
 KeyToPressB = 2
@@ -70,7 +71,7 @@ KeyToSpamB = 2
 ;; ------------------
 
 ;; Set your DELAY, in ms.
-DelayC := 80
+DelayC := 150
 
 ;; Set the key you want to press to start spam.
 KeyToPressC = 3
@@ -84,10 +85,10 @@ KeyToSpamC = 3
 ;;		MAIN
 ;; #################################
 
-; Hotkey, IfWinActive, World of Warcraft	;; enabled only in WoW
-Hotkey, $%KeyToPressA%, LabelA
-Hotkey, $%KeyToPressB%, LabelB
-Hotkey, $%KeyToPressC%, LabelC
+Hotkey, IfWinActive, World of Warcraft	;; enabled only in WoW
+Hotkey, *$%KeyToPressA%, LabelA
+Hotkey, *$%KeyToPressB%, LabelB
+Hotkey, *$%KeyToPressC%, LabelC
 return
 
 ToggleA := 0
@@ -103,6 +104,8 @@ If(ToggleA) {
 	SetTimer, SpamKeyC, Off
 } Else {
 	ToggleA := 1
+	ToggleB := 0
+	ToggleC := 0
 	;; PROGRESS WINDOW
 	Progress, M B1 X1325 Y675 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON1,,ON1,Verdana
 	SetTimer, SpamKeyB, Off
@@ -120,6 +123,8 @@ If(ToggleB) {
 	SetTimer, SpamKeyC, Off
 } Else {
 	ToggleB := 1
+	ToggleA := 0
+	ToggleC := 0
 	;; PROGRESS WINDOW
 	Progress, M B1 X1325 Y712 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON2,,ON2,Verdana
 	SetTimer, SpamKeyA, Off
@@ -137,6 +142,8 @@ If(ToggleC) {
 	SetTimer, SpamKeyC, Off
 } Else {
 	ToggleC := 1
+	ToggleA := 0
+	ToggleB := 0
 	;; PROGRESS WINDOW
 	Progress, M B1 X1325 Y747 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON3,,ON3,Verdana
 	SetTimer, SpamKeyA, Off
@@ -167,3 +174,4 @@ return
 ^PgDn::Suspend	;; Ctrl + PageDown to suspend script (if you want to chat)
 ^PgUp::Reload	;; Ctrl + PageUP to reload script
 ^End::ExitApp	;; Ctrl + End to terminate script
+
