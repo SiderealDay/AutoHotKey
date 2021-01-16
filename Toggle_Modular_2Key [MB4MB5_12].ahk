@@ -2,9 +2,9 @@
 ;; by Hadronox / Rezel
 
 
-;; ---------------------
+;; #################################
 ;;		INFO
-;; ---------------------
+;; #################################
 
 ;; The purpose of this macro is to use 2 toggle keys to spam 2 other keys.
 ;; Default: "Mouse Button 4" will spam "1" at 150ms, and "Mouse Button 5" will spam "2" at 150ms.
@@ -22,9 +22,9 @@
 ; CTn: color text / CWn: color background, 16 primary HTML color names or a 6-digit RGB hex.
 
 
-;; ---------------------
+;; #################################
 ;;		AUTO EXEC
-;; ---------------------
+;; #################################
 
 #NoEnv
 SetWorkingDir %A_ScriptDir%
@@ -33,9 +33,9 @@ SendMode Input
 #MaxThreadsPerHotkey 2
 
 
-;; ---------------------
+;; #################################
 ;;		CONFIG
-;; ---------------------
+;; #################################
 
 
 ;; ------------------
@@ -66,13 +66,13 @@ KeyToPressB = XButton2		;; MB5
 KeyToSpamB = 2
 
 
-;; ---------------------
+;; #################################
 ;;		MAIN
-;; ---------------------
+;; #################################
 
 Hotkey, IfWinActive, World of Warcraft	;; enabled only in WoW
-Hotkey, $%KeyToPressA%, LabelA
-Hotkey, $%KeyToPressB%, LabelB
+Hotkey, *$%KeyToPressA%, LabelA
+Hotkey, *$%KeyToPressB%, LabelB
 return
 
 ToggleA := 0
@@ -86,6 +86,7 @@ If(ToggleA) {
 	SetTimer, SpamKeyB, Off
 } Else {
 	ToggleA := 1
+	ToggleB := 0
 	;; PROGRESS WINDOW
 	Progress, M B1 X1325 Y675 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON1,,ON1,Verdana
 	SetTimer, SpamKeyB, Off
@@ -101,6 +102,7 @@ If(ToggleB) {
 	SetTimer, SpamKeyB, Off
 } Else {
 	ToggleB := 1
+	ToggleA := 0
 	;; PROGRESS WINDOW
 	Progress, M B1 X1325 Y675 C1 W75 ZH-5 ZX0 ZY0 FM0 FS25 WM1 WS600 CT40FF06 CW000000, ON2,,ON2,Verdana
 	SetTimer, SpamKeyA, Off
@@ -119,10 +121,11 @@ Send, {Blind}{%KeyToSpamB%}
 return
 
 
-;; ---------------------
+;; #################################
 ;;		CONTROLS
-;; ---------------------
+;; #################################
 
 ^PgDn::Suspend	;; Ctrl + PageDown to suspend script (if you want to chat)
 ^PgUp::Reload	;; Ctrl + PageUP to reload script
 ^End::ExitApp	;; Ctrl + End to terminate script
+
