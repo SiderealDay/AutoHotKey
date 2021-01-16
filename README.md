@@ -179,7 +179,7 @@ Features:
 ------
 
 __(3)__
-[__Modular - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_1Key%20[MB4_1].ahk)
+[__Modular - One Key__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_1Key_[MB4_1].ahk)
 
 A cutomizable `toggle` AHK macro to spam 1 key.<br/>
 **Default**: Toggle `MB4` to spam `1` @ 150 ms delay.
@@ -215,7 +215,7 @@ Features:
 ------
 
 __(4)__
-[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_2Key%20[MB4MB5_12].ahk)
+[__Modular - Two Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_2Key_[MB45_12].ahk)
 
 A cutomizable `toggle` AHK macro to spam 2 keys.<br/>
 **Default**: Toggle `MB4` to spam `1` @ 150 ms delay; Toggle `MB5` to spam `2` @ 150 ms delay.
@@ -251,7 +251,7 @@ Features:
 ------
 
 __(5)__
-[__Modular - Three Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_3Key.ahk)
+[__Modular - Three Keys__](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/SiderealDay/AutoHotKey/blob/master/Toggle_Modular_3Key_[123_123].ahk)
 
 A cutomizable `toggle` AHK macro to spam 3 keys.<br/>
 **Default**: Toggle `MB4` to spam `1` @ 150 ms delay; Toggle `MB5` to spam `2` @ 150 ms delay; Toggle `3` to spam `3` @ 150 ms delay.
