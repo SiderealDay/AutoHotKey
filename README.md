@@ -55,10 +55,10 @@ If you are having issues downloading my AHK macros as described above, there are
    - You will see a list of my AHK macro files.
 2. Select the macro you want.
 3. LEFT-click the file name.
-4. A new page will open with the macro text code displayed.
+4. A new page will open to display the actual macro code as text.
 5. Click the [RAW] button on the right side of the page.
 6. Select all the text, Copy it, then Paste it into an empty text file.
-7. Save the text file under the same name of my original macro, ex: "Toggle_Modular_1Key_[MB4_1].txt".
+7. Save the text file under the same name of my original macro, example: "Toggle_Modular_1Key_[MB4_1].txt".
    - Any name will do, but this might help you recognize the macro better.
 8. Change the text file extension from ".txt" to ".ahk".
 
