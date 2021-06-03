@@ -32,21 +32,35 @@ However, with minor editing, these AHK macros can also be used with other applic
 4. Read the instructions provided with each macro to learn how it works.
 <br/>
 
-### Alternate Download Method
+### Alternate Download Methods
 
 <p><details>
 <summary> <b>Click here for info</b> </summary>
 <br/>
 
-If you are having issues downloading my AHK macros as described above, here is an alternative way:
+If you are having issues downloading my AHK macros as described above, there are a few alternatives
 
+<b>(A)</b> First, simply try a few other browsers to download the macro as described above.
+
+<b>(B)</b> If that doesn't work, here is an alternative way for direct download:
 1. Go to the main page of my Github repository: (https://github.com/SiderealDay/AutoHotKey).<br/>
    - You will see a list of my AHK macro files.
-2. Select the one you want.
-3. Right-click the file name.
+2. Select the macro you want.
+3. RIGHT-click the file name.
 4. Click "Save target as (A)...".
 5. Select a directory on your PC to download the file (such as "My Documents") then click "Save".
-6. Alternatively, you can click on the file, copy/paste the script code into an empty text file, then rename its extension from `.txt` to `ahk`.
+
+<b>(C)</b> If still no dice, then we can resort to the simple copy/paste method, which works all the time:
+1. Go to the main page of my Github repository: (https://github.com/SiderealDay/AutoHotKey).<br/>
+   - You will see a list of my AHK macro files.
+2. Select the macro you want.
+3. LEFT-click the file name.
+4. A new page will open with the macro text code displayed.
+5. Click the [RAW] button on the right side of the page.
+6. Select all the text, Copy it, then Paste it into an empty text file.
+7. Save the text file under the same name of my original macro, ex: "Toggle_Modular_1Key_[MB4_1].txt".
+   - Any name will do, but this might help you recognize the macro better.
+8. Change the text file extension from ".txt" to ".ahk".
 
 </p></details>
 <br/>
